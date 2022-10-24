@@ -1,0 +1,1 @@
+export const isNullOrUndefined = (param: any): boolean => param === null || param === undefined;
